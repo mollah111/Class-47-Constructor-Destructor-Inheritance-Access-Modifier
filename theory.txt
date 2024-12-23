@@ -1,0 +1,15 @@
+
+constructor => __construct()
+destructor =>  __destruct()
+
+inheritance
+
+Access Modifier...
+
+public
+private
+protected
+
+1. public - the property or method can be accessed from everywhere. This is default.
+2. protected - the property or method can be accessed within the class and by classes derived from that class.
+3. private - the property or method can ONLY be accessed within the class.
